@@ -25,10 +25,6 @@ Here are my reasons for how cool it is:
 
 Cool. Y'know what else is cool? Using `monospace/code format`.
 
-## Images
-![](Yoda.png)  
-Technology is amazing.  
-
 ## Tables
 LaTeX would be proud.
 
