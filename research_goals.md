@@ -20,7 +20,7 @@ What is the end goal/product?
 
 
 ## Goals
-Using the print copy of Lombardo, and the online English/Greek texts:
+Using the print copy of Lombardo, and the [online](https://github.com/Eumaeus/Homeric_Texts/tree/main/Odyssey) Greek and English (Butler & Murray) texts:
 - Neatly compile every mention in *The Odyssey* I can find of:
     - fate and destiny
     - agency of the gods
