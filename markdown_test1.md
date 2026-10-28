@@ -1,5 +1,5 @@
 
-# Markdown Test 1
+# Markdown Test
 
 This file is for practicing using Markdown, and committing files to a remote repo using VS code...  
 
@@ -10,6 +10,8 @@ This file is for practicing using Markdown, and committing files to a remote rep
 ***bold and italics***  
 <u>underline</u>  
 (↑ using HTML - turns out MD doesn't have underlining syntax)   
+
+Cool. Y'know what else is cool? Using `monospace/code format`.
 
 ## Text formatting
 > This is a really cool block quote  
@@ -23,12 +25,10 @@ Here are my reasons for how cool it is:
     + Can this be more bombastic?
         + Doubeth not, for the nigh sacred entreys in this most educational of listes hath not the pivotal archaic idiom and spelling that wouldst make it truly pretentious...  
 
-Cool. Y'know what else is cool? Using `monospace/code format`.
 
 ## Tables
-LaTeX would be proud.
 
-|Lorem|Ipsum        |
+|Lorem|Ipsum       |
 | --- | ---------- |
 |Dolor| Sit        |
 |Amet |Consectetuer|
