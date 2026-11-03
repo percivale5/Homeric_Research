@@ -1,0 +1,2 @@
+"I, King, have dealt with the gods for three generations of men, and I know that they dazzle our eyes and flow in and out of one another like eddies on a river, and nothing that is said clearly can be said truly about them."
+    - *Till We Have Faces*, C.S. Lewis (need page number) 
