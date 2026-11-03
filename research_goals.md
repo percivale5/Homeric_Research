@@ -20,6 +20,8 @@ What is the end goal/product?
 
 
 ## Goals
+- Rigorously define what I'm actually looking for!
+
 Using the print copy of Lombardo, and the [online](https://github.com/Eumaeus/Homeric_Texts/tree/main/Odyssey) Greek and English (Butler & Murray) texts:
 - Neatly compile every mention in *The Odyssey* I can find of:
     - fate and destiny
@@ -32,3 +34,13 @@ Using the print copy of Lombardo, and the [online](https://github.com/Eumaeus/Ho
     - AND any other relevant passages on human and divine agency in relation to each other and fate
 - Develop meaningful categories and sort these passages accordingly
 - Determine the end goal/product of the project 
+
+~
+More specific TODO:
+- Fill out `lombardo_references1_raw.md`
+    - Maybe make it a `.csv` file?
+- Match up Lomarbo line numbers to Butler/Murray/Greek line numbers
+
+~
+Additional things to think about?
+- Could plot these references, some sort of histogram, see if I can identify when characters are engaging in "god-talk"?
