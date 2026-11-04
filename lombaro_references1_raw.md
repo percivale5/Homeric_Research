@@ -10,13 +10,14 @@
 
 > Something to think about is how the *popular religion* (the way the people themselves) think about the gods, fate, their own will and agency affects anything. 
 >>When is something actually (presented by the poet) from the gods/decreed by fate, and when do people just say (religion influencing common speech?), or think, that that is? What's the context of each reference? This is an important detail that will need to be included in the descriptive list that is a goal of this project.
+>>> However, in contexts such as Odysseus' fabricated Cretan story, the lies told mirror the truth, and the references to the gods/fate/etc. likewise mirror that which we have heard elsewhere in the poem, so these may serve as something of a revelation of the popular Epic mind, or something? **Do references like this tell us more about how people talk, or about the theology Homer presents?**
 
 ## Book 1
 Olympus scene (?)
 ## Book 2
 
 ## Book 3
-54
+**54**
 147  
 166  
 256
@@ -64,6 +65,7 @@ Olympus scene (?)
 92 (cf. Odin's will in *Poetic Edda*; possibility of "Zeus" as general term for godhead, Epimenedes in Acts 17, etc)
 538  
 540  
+609-617 (Prophecy, whims of the gods)
 625 (Odin again?)
 
 ## Book 9
@@ -84,7 +86,8 @@ Olympus scene (?)
 ## Book 10 
 27  
 28 (where does Aeolus fit into Ody.'s 'fate'?)  
-**33** (proclimation of fate **and** assertion of human agency)  
+**33** (proclimation of fate **and** assertion of human agency) 
+72 
 77-86 ("cursed by heaven", "power" to "make it right", etc.)  
 156  
 173  
@@ -129,16 +132,123 @@ Olympus scene (?)
     - 346-347
     - 382-384
 389 (Helios 'has' to ask for punishment on Ody.'s crew?)
-432 ("Zeus" is destroying their ships; this one line attributes it to "Helios") (cf. [TWHF_Quote.md]())
-
+432 ("Zeus" is destroying their ships; this one line attributes it to "Helios") (cf. [TWHF_Quote.md](https://github.com/percivale5/Homeric_Research/blob/main/TWHF_Quote.md))
+463
+466
 
 ## Book 13
+26
+57-58
+88 (falcon as divine? and then, a boat faster than that? less sure about the importance of this one...)
+124
+**129-194** (Poseidon as saving face, fulfillment of prophecy ambiguous, etc.)
+    - 135 (Poseidon "swore")
+    - 137-138, 152 (Poseidon's revenge limited by Zeus?)
+    - 190
+    - connected to 8.609-(8.616-)8.617
+201 (Athena's desired judgment of suitors includes using Odysseus (human agent))
+285 (false/revisionist view of divine forces?)
+300-301
+312-315 (Athena *plans* presently)
+316 (cf. 124)
+321 ("must")
+328
+332
+335
+**350-352**
+373-374
+387 (Divine will using human means again)
+401-406 (Odysseus with divine aid)
+412 (cf. 297-298- Athena's handiwork/skill at play (?))
+432 (the strange ways of the gods)
+457 (Athena's actions are in the context of her **will** (judgement of the suitors))
 
 ## Book 14
+3 (knowledge from goddess)
+44-45
+61
+70
+75
+94
+    - 95
+99 (cf. 3.54)
+134
+197
+205
+220
+228
+237-238
+**249**
+259
+266-267
+276 (a concept of "enough" for the gods (?))
+281 ("pilot's hand" as agent of choice)
+293
+298-299
+310
+325
+328-330
+334-335
+336-337
+367-368
+376
+385-386
+387
+395
+417-418
+425-426
+478-479
+528-529
+535 (context really matters here (a lie within a lie, or a masked truth?))
 
 ## Book 15 
+28
+36-37
+120-121
+186-187 (Divine and human co-agency?) (Philippians 2:12-13?)
+257-258
+263
+270 ("love" of "Zeus and Apollo" does not = "old age" (271)) (cf. 3.261-263)
+327
+352-358 (Hermes as granting cool skills)
+410
+450-452
+519-521
+531-532
+570-572
+581
 
 ## Book 16
+69 ("ὡς γὰρ οἱ **ἐπέκλωσεν** τὰ γε **δαίμων**")
+106 (popular religion in daily thought?)
+123-124
+136
+165
+171
+180 (cooperation of divine/human agency)
+190
+207-208
+209-210
+    - 220
+    - 221
+    - 223-224
+247-248
+273-275 (*obviously* "help enough")
+277-279 (limits of the gods?)
+    - 281-282 (maybe not?)
+293 (like the hardening of Pharaoh's heart (Exodus))
+296
+305
+313
+338-339
+376
+384
+417
+428-431
+453
+481
+485-486 (sleep, cf. 12.277)
+
 
 ## Book 17
 
