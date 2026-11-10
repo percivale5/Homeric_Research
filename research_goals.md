@@ -59,3 +59,6 @@ More specific TODO:
 
 Additional things to think about?
 - ~~Could plot these references, some sort of histogram, see if I can identify if there's an association regarding when characters are engaging in "god-talk"?~~
+- something about how the aorist tense (apsect at least) and middle voice convey "fate"
+- words for fate (see Dietrich)
+    - νέω, ἐπικλώθω
