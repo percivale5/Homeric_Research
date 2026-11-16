@@ -23,6 +23,9 @@ jobs:
         env:
           MARP_USER: root:root
 
+      - name: Copy local images to dist
+        run: mkdir -p dist && cp -r images dist/
+
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
