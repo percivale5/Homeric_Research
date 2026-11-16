@@ -23,6 +23,6 @@ e.g., the ancient Greeks generally conceived of the flow of time as looking into
 
 ---
 
-| ![Yoda](images/yoda.png) |
+| ![Yoda](images/Yoda.png) |
 | :-: |
 | Yoda this is |
