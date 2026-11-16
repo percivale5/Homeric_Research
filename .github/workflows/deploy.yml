@@ -14,27 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+
+      - name: Copy local images to dist
+        run: mkdir -p dist && [ -d images ] && cp -r images dist/ || true
 
       - name: Convert Markdown to HTML with Marp
         uses: docker://marpteam/marp-cli:latest
         with:
           args: slides.md "-o" dist/index.html --html
         env:
-          MARP_USER: root:root
-
-      - name: Copy local images to dist
-        run: mkdir -p dist && cp -r images dist/
+          MARP_USER: 1001:127
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: 'dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
- 
