@@ -28,7 +28,7 @@ e.g., "some god" leading Helen to torment the Acheans in the Trojan Horse. Odyss
 
 ---
 
-What about gods influencing the **internal**?
+What about gods influencing the **internal** (thoughts, emotions, etc.)? Or manipulating how people look?
 
 ---
 
