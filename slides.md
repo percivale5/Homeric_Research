@@ -4,7 +4,7 @@ theme: uncover
 paginate: true
 ---
 
-# slideshow
+# FYW 1141 Homer And History
 
 ---
 
