@@ -23,6 +23,11 @@ e.g., the ancient Greeks generally conceived of the flow of time as looking into
 
 ---
 
+Define fate as external (Kierkegaard?), things that happen to you. It seems like the Homeric conception of external happenings is that these can be boiled down to the fault of the gods, of some fate (μοίρα?) connected to the gods/separate from the gods, or somebody else, and maybe a combination of these things...
+e.g., "some god" leading Helen to torment the Acheans in the Trojan Horse. Odysseus' actions were up to him, but the circumstances were because of Helen, and ultimately (maybe not actually) "some god".
+
+---
+
 | ![Yoda](images/Yoda.png) |
 | :-: |
 | Yoda this is |
