@@ -22,3 +22,7 @@ How ancient Greeks talked about the past had a lot to do with perspective- how d
 e.g., the ancient Greeks generally conceived of the flow of time as looking into the past while moving backwards into the future.
 
 ---
+
+| ![Yoda](images/yoda.png) |
+| :-: |
+| Yoda this is |
