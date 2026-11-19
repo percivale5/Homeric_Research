@@ -16,6 +16,12 @@ Talk about fate as it relates to the storytelling of the Odyssey (fate as poet's
  
 ---
 
+![w:500 bg left Bas relief of Atropos cutting the thread of life.](images/Atropos.jpg)
+
+Lorem Ipsum
+
+---
+
 ## Aorist vs. Perfect
 
 How ancient Greeks talked about the past had a lot to do with perspective- how does the past relate to now/what is said
