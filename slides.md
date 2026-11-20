@@ -8,12 +8,19 @@ paginate: true
 
 ---
 
+<!-- _class: img-left -->
+
 Talk about fate as it relates to the storytelling of the Odyssey (**fate as poet's tool**)
 - influenced *by* popular religion, and *influencing* popular religion (Dietrich)
 - *how* the poets talk about fate
     - formulae?
     - aspect of "fate" verbs (aorist vs. perfect vs. past perfect)
  
+<figure>
+    <img src="images/demodocus.png">
+    <figcaption>Demodocus sings of Troy</figcaption>
+</figure>
+
 ---
 
 Phemius (in a very desperate moment) on being a singer-of-tales: 
@@ -23,7 +30,16 @@ Phemius:
 All sorts of songs and stories, and I can sing to you
 As to a god..." (22.372-22.374)
 
+---
+
+<!-- _class: img-right -->
+
 What role does the "instrument of fate" play in this divinely inspired song? Is this language/knowledge given to aid the singer in the telling/making of the song?
+
+<figure>
+    <img src="images/phemius.jpg">
+    <figcaption>Phemius sings to the Suitors</figcaption>
+</figure>
 
 ---
 
@@ -34,7 +50,7 @@ What role does the "instrument of fate" play in this divinely inspired song? Is 
 Lorem ipsum dolor sit amet
 
 <figure>
-    <img src="images/Atropos.jpg">
+    <img src="images/atropos.jpg">
     <figcaption>The Moirai</figcaption>
 </figure>
 
@@ -62,16 +78,14 @@ Notice that this comes from Philoetius, who is not a priest, theologian, or phil
 
 ---
 
-What about gods influencing the **internal** (thoughts, emotions, etc.)? Or manipulating how people look?
-- "Owl-eyed Athena now prompted Penelope..." (21.1)
-
+"Some god has wrapped [Penelope] up in sleep" (22.454)
+Not only does Eurycleia express the characters' understanding of this, but maybe also reflects popular belief? Note that the singer-poet also tells us multiple times (formula?) that "some god" or "Athena" casts sleep upon people (usually Penelope, but Odysseus too (Thrinacia))
 
 ---
 
-Do humans have choice/responsibility? 
-Peisistratus' maxim:
-"All men have need of the immortal gods."
- 3.54
+What about gods influencing the **internal** (thoughts, emotions, etc.)? Or manipulating how people look?
+- "Owl-eyed Athena now prompted Penelope..." (21.1)
+    - But is a 'prompting' still something external?
 
 ---
 
@@ -95,3 +109,27 @@ Compare these two passages:
 |---|---|
 
 There's an apparently strange coexistence of human effort being secondary to divine will and human effort being ultimately triumphant. Maybe the divide itsn't so simple.
+
+---
+
+Odysseus says of the dead suitors:
+"...These men
+Have been destroyed *by divine destiny*
+***And** their own recklessness*..." (22.436-22.438)
+Indeed, "they have brought **upon themselves** / An ugly **fate**" (22.440-22.441)
+<br>
+Interesting...
+
+---
+
+Do humans have choice/responsibility? 
+Peisistratus' maxim:
+"All men have need of the immortal gods."
+ 3.54
+
+---
+
+Can the gods' influences (fate generally) *excuse* human behavior?
+Menelaus says to Helen (and it is hard to recognize if he says so seriously or sarcastically):
+"Some god who favored the Trojans / Must have lured you on" (to the disguised Acheans, whom Helen promptly began to torture, "until Athena led [Helen] off") (4.294-4.295, 4.309).
+Kierkegaard (Haufniensis) notes that the Greeks really struggled with resolving apparent fate (external) and responsibility and guilt (internal).
