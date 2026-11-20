@@ -2,14 +2,13 @@
 marp: true
 theme: custom-uncover
 paginate: true
-
 ---
 
 # FYW 1141 Homer And History
 
 ---
 
-Talk about fate as it relates to the storytelling of the Odyssey (fate as poet's tool)
+Talk about fate as it relates to the storytelling of the Odyssey (**fate as poet's tool**)
 - influenced *by* popular religion, and *influencing* popular religion (Dietrich)
 - *how* the poets talk about fate
     - formulae?
