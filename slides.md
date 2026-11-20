@@ -16,23 +16,36 @@ Talk about fate as it relates to the storytelling of the Odyssey (**fate as poet
  
 ---
 
+Phemius (in a very desperate moment) on being a singer-of-tales: 
+He is a "bard... who sings for gods and men" (22.371)
+Phemius: 
+"I am self-taught, and a god has planted in my heart
+All sorts of songs and stories, and I can sing to you
+As to a god..." (22.372-22.374)
+
+What role does the "instrument of fate" play in this divinely inspired song? Is this language/knowledge given to aid the singer in the telling/making of the song?
+
+---
+
 <!-- _class: img-left -->
 
-## Lorem Ipsum
+## Fate, the gods, and popular belief
 
 Lorem ipsum dolor sit amet
 
 <figure>
     <img src="images/Atropos.jpg">
-    <figcaption>Atropos</figcaption>
+    <figcaption>The Moirai</figcaption>
 </figure>
 
 ---
 
-## Aorist vs. Perfect
+## Aorist and Passive
 
-How ancient Greeks talked about the past had a lot to do with perspective- how does the past relate to now/what is said
-e.g., the ancient Greeks generally conceived of the flow of time as looking into the past while moving backwards into the future.
+How ancient Greeks talked about the past had a lot to do with perspective- how does the past relate to now/what is said, e.g., the ancient Greeks generally conceived of the flow of time as looking into the past while moving backwards into the future.
+- Homeric use of ἐπικλώθω
+    - why aorist ἑπέκλωσεν (16.64), ἐπεκλώσαντο (1.17), ἐπέκλωσαν (3.208)?
+- Homeric use of passive voice for "fate verbs"
 
 ---
 
@@ -41,9 +54,44 @@ e.g., "some god" leading Helen to torment the Acheans in the Trojan Horse. Odyss
 
 ---
 
+The gods influencing the external:
+"[Zeus,] You have no pity for men. You beget them,
+Then plunge them into misery and pain." 
+(20.215-20.216)
+Notice that this comes from Philoetius, who is not a priest, theologian, or philosopher, simply someone who believes the popular relgion (which influenced the Homeric poets but was then influenced by the Homeric poets- themselves artists, not theologians!).
+
+---
+
 What about gods influencing the **internal** (thoughts, emotions, etc.)? Or manipulating how people look?
+- "Owl-eyed Athena now prompted Penelope..." (21.1)
+
 
 ---
 
 Do humans have choice/responsibility? 
-Peisistratus' maxim: 3.~~
+Peisistratus' maxim:
+"All men have need of the immortal gods."
+ 3.54
+
+---
+
+Do the gods have certain limits?
+"But even the gods cannot ward off death,
+The great leveler, from a man they love,
+Not when destiny comes to lay him low."
+3.261-3.263
+
+The gods have certain "wills/plans", (Athena's machinations (20.310-20.312)) but we see Poseidon's will is limited by Zeus, and the gods are generally limited?
+
+---
+
+And yet, Zeus (sometimes Athena, and sometimes they are [indistinguishable from each other](https://github.com/percivale5/Homeric_Research/blob/main/TWHF_Quote.md)) has the "overpowering aegis" (22.316).
+
+---
+
+Compare these two passages:
+
+|"They took his advice and gave it their best,<br>But Athena made their shots all come to nothing..."<br>22.271-22.272|"He spoke and they all threw their sharp spears<br>With deadly aim..."<br>22.280-22.281|
+|---|---|
+
+There's an apparently strange coexistence of human effort being secondary to divine will and human effort being ultimately triumphant. Maybe the divide itsn't so simple.
