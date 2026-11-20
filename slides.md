@@ -50,7 +50,7 @@ What role does the "instrument of fate" play in this divinely inspired song? Is 
 Lorem ipsum dolor sit amet
 
 <figure>
-    <img src="images/atropos.jpg">
+    <img src="images/atropos_relief.jpg">
     <figcaption>The Moirai</figcaption>
 </figure>
 
