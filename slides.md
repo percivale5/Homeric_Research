@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet consectetuer adipiscing elit
 ## Aorist and Passive
 
 How ancient Greeks talked about the past had a lot to do with perspective- how does the past relate to now/what is said, e.g., the ancient Greeks generally conceived of the flow of time as looking into the past while moving backwards into the future.
-- Homeric use of ἐπικλώθω
+- Homeric use of [ἐπικλώθω](https://folio3.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39776)
     - why aorist ἑπέκλωσεν (16.64), ἐπεκλώσαντο (1.17), ἐπέκλωσαν (3.208)?
 - Homeric use of passive voice for "fate verbs"
 
