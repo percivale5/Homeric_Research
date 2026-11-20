@@ -1,0 +1,30 @@
+/* @theme custom-uncover */
+@import 'uncover';
+
+section.img-right, section.img-left {
+  text-align: left;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+section.img-right { padding: 60px 480px 60px 60px; }
+section.img-left  { padding: 60px 60px 60px 480px; }
+
+section.img-right figure, section.img-left figure {
+  position: absolute;
+  top: 140px;
+  width: 380px;
+  margin: 0;
+  text-align: center;
+}
+section.img-right figure { right: 60px; }
+section.img-left  figure { left: 60px; }
+
+section.img-right figure img, section.img-left figure img {
+  width: 100%;
+  display: block;
+}
+section.img-right figcaption, section.img-left figcaption {
+  font-size: 0.6em;
+  opacity: 0.8;
+  margin-top: 8px;
+}

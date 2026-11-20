@@ -1,7 +1,8 @@
 ---
 marp: true
-theme: uncover
+theme: custom-uncover
 paginate: true
+
 ---
 
 # FYW 1141 Homer And History
@@ -16,9 +17,16 @@ Talk about fate as it relates to the storytelling of the Odyssey (fate as poet's
  
 ---
 
-![w:500 bg left Bas relief of Atropos cutting the thread of life.](images/Atropos.jpg)
+<!-- _class: img-left -->
 
-Lorem Ipsum
+## Lorem Ipsum
+
+Lorem ipsum dolor sit amet
+
+<figure>
+    <img src="images/Atropos.jpg">
+    <figcaption>Atropos</figcaption>
+</figure>
 
 ---
 
@@ -40,9 +48,3 @@ What about gods influencing the **internal** (thoughts, emotions, etc.)? Or mani
 
 Do humans have choice/responsibility? 
 Peisistratus' maxim: 3.~~
-
----
-
-| ![Yoda](images/Yoda.png) |
-| :-: |
-| Yoda this is |
