@@ -47,7 +47,7 @@ What role does the "instrument of fate" play in this divinely inspired song? Is 
 
 ## Fate, the gods, and popular belief
 
-Lorem ipsum dolor sit amet consectetuer adipiscing elit
+Lorem ipsum dolor sit amet
 
 <figure>
     <img src="images/atropos.jpg">
